@@ -41,5 +41,5 @@ Busco sempre aplicar tecnologia de forma estratégica, inteligente e com propós
 
 ---
 
-> 🧠 *"Tecnologia não é apenas sobre código, é sobre como podemos transformar o mundo resolvendo problemas reais com inteligência e empatia."*
+>  *"Tecnologia não é apenas sobre código, é sobre como podemos transformar o mundo resolvendo problemas reais com inteligência e empatia."*
 
